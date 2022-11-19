@@ -1,7 +1,7 @@
 ### Hi there, I'm Petr Ahtimirov 👋
 
 ### Languages:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-transparent.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  ![Python](https://img.shields.io/badge/python-transparent?style=flat&logo=python&logoColor=ffdd54)  ![C++](https://img.shields.io/badge/c++-transparent.svg?style=flat&logo=c%2B%2B&logoColor=white)
 <!--
 **PetrAhtimirov/PetrAhtimirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
