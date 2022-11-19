@@ -13,5 +13,5 @@ Trying in Frontend and other interesting technologies. 18 y.o.
 
 <div>
 <img height="140px" src="https://github-readme-stats.vercel.app/api?username=PetrAhtimirov&include_all_commits=true$count_private=true&show_icons=true&hide_border=true&hide_title=true&theme=nord&border_radius=0">
-<img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetrAhtimirov&layout=compact&hide_border=true&hide_title=true&theme=nord&border_radius=0&hide=html,scss,css">
+<img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetrAhtimirov&layout=compact&hide_border=true&hide_title=true&theme=nord&border_radius=0&hide=html,scss,css">
 </div>
