@@ -4,7 +4,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-0D1117.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=1F6FEB)  ![C++](https://img.shields.io/badge/c++-0D1117.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Technologies
-![NodeJS](https://img.shields.io/badge/node.js-0D1117?style=flat-square&logo=node.js&logoColor=%23white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-0D1117.svg?style=flat-square&logo=bootstrap&logoColor=%23563D7C)
+![NodeJS](https://img.shields.io/badge/NODE.JS-0D1117?style=flat-square&logo=node.js&logoColor=%23white)  ![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-0D1117.svg?style=flat-square&logo=bootstrap&logoColor=%23563D7C)
 
 ### Other
 ![HTML5](https://img.shields.io/badge/html5-0D1117.svg?style=flat-square&logo=html5&logoColor=%23E34F26)  ![CSS3](https://img.shields.io/badge/css3-0D1117.svg?style=flat-square&logo=css3&logoColor=%231572B6) ![SASS](https://img.shields.io/badge/SASS-0D1117.svg?style=flat-square&logo=SASS&logoColor=hotpink) ![Heroku](https://img.shields.io/badge/heroku-0D1117.svg?style=flat-square&logo=heroku&logoColor=%23430098)
