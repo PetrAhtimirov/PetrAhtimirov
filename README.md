@@ -2,7 +2,7 @@
 ### Trying in Frontend and other interesting technologies. 18 y.o.
 [![Telegram](https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/PetrAhtimirov)
 ### Languages
-[![JavaScript](https://img.shields.io/badge/javascript-0D1117.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]  [![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=1F6FEB)]  [![C++](https://img.shields.io/badge/c++-0D1117.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)]
+[![JavaScript](https://img.shields.io/badge/javascript-0D1117.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](/#)  [![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=1F6FEB)](/#)  [![C++](https://img.shields.io/badge/c++-0D1117.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](/#)
 
 ### Technologies
 ![NodeJS](https://img.shields.io/badge/NODE.JS-0D1117?style=flat-square&logo=node.js&logoColor=%23white)  ![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-0D1117.svg?style=flat-square&logo=bootstrap&logoColor=%23563D7C)
