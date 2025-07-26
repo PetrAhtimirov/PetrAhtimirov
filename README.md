@@ -1,1 +1,1 @@
-[Telegram](https://t.me/PetrAhtimirov) · [LeetCode](https://leetcode.com/petrahtimirov)
+[Telegram](https://t.me/PetrAhtimirov)
